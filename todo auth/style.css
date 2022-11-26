@@ -1,0 +1,11 @@
+.btn{
+    color: black;
+    margin: 2px;
+}
+body{
+    text-align: center;
+}
+.listBtn{
+    background-color: black;
+    color: white;
+}
